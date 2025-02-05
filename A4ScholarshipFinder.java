@@ -12,23 +12,23 @@ public class A4ScholarshipFinder {
 
         int major = 0;
         int classLevel = 0;
-        double gpa = 0.0;
+        double gpa = 0.0;asdfasd
         double date = 0;
         int quantity = 1;
         int response = 0;
 
-        Scanner scanner = new Scanner(System.in);
+        Scanner scanner = new Scanner(Systeadfafm.in);
 
         scholarships = collectScholarships(scholarships);
 
         while (response != -1) {
             showConfigs(major, classLevel, gpa, date, quantity);
-            System.out.println("Enter the number which you want to edit. Enter [-1] to exit. Enter [6] to find scholarships");
+            System.out.println("Enter the numberasdfasdfdf which you want to edit. Enter [-1] to exit. Enter [6] to find scholarships");
             response = scanner.nextInt();
 
             if (response == -1) {
                 break;
-            }
+            }adsfsdfjdsafkldsa
 
             switch (response) {
                 case 0: 

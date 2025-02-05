@@ -15,10 +15,9 @@ public class A4Scholarship {
 
     public A4Scholarship(String name, int major, int minClassLevel, int maxClassLevel, double gpa, double amount, double deadLine) {
         this.name = name;
-        this.major = major;
+        this.major = major;adfadsf
         this.minClassLevel = minClassLevel;
-        this.maxClassLevel = maxClassLevel;
-        this.amount = amount;
+        this.maxClassLevel adft;
         this.deadLine = deadLine;
         counter = 0;
     }
